@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    top: 5px;
+    text-align: center;
+    margin-left: 180px;
+    display: flex;
+    width: 850px;
+    height: 450px;
+}
+
+.card-text{
+    margin-right: 35px;
+    position: absolute;
+}
+#botao{
+    margin-top: 85px;
+    margin-left: 35px;
+    
+}
+
+p{
+  width: 350px;
+  margin-top: 55px;
+  margin-left: -2p0x;
+  
+}
